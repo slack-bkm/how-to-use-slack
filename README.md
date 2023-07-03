@@ -5,7 +5,7 @@ Slack目前不能用中国的邮箱，推荐使用outlook邮箱。可以按照�
 
 1. 用手机浏览器打开下面的网址或者扫描二维码
 https://outlook.live.com/owa
-[](outlook.png)
+![](outlook.png)
 
 2. 
 
