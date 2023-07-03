@@ -8,7 +8,10 @@ https://outlook.live.com/owa
 ![](outlook.png)
 
 2. 按照以下视频注册邮箱
+
 https://github.com/slack-bkm/how-to-use-slack/raw/main/outlook-reg.mp4
+
+https://github.com/slack-bkm/how-to-use-slack/blob/main/README.md
 
 
 
